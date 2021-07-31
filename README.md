@@ -1,2 +1,3 @@
-# animations
-Pequeno projeto voltado para estudos em animações
+# Animations
+
+- Pequeno projeto voltado para estudos em animações
